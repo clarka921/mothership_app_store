@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg5819"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ms_logo_symbol.svg"
+   inkscape:export-filename="/Users/andrew/Pictures/ms_logo_symbol.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <metadata
+     id="metadata5836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>mothership-landing-light-824x268</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1401"
+     inkscape:window-height="765"
+     id="namedview5834"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="138.36319"
+     inkscape:cy="99.694066"
+     inkscape:window-x="27"
+     inkscape:window-y="66"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5819"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     showborder="false" />
+  <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title5821">mothership-landing-light-824x268</title>
+  <desc
+     id="desc5823">Created with Sketch.</desc>
+  <defs
+     id="defs5825">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4276">
+      <stop
+         style="stop-color:#f4767a;stop-opacity:1"
+         offset="0"
+         id="stop4278" />
+      <stop
+         style="stop-color:#e71319;stop-opacity:1"
+         offset="1"
+         id="stop4280" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4174"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4176" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6394"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#426571;stop-opacity:0;"
+         offset="0"
+         id="stop6396" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6380"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#23b2e3;stop-opacity:0;"
+         offset="0"
+         id="stop6382" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6386">
+      <rect
+         style="opacity:1;fill:url(#linearGradient6390);fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="rect6388"
+         width="174.73549"
+         height="158.97098"
+         x="-3.5032275"
+         y="-5.7596693" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6380"
+       id="linearGradient6390"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.89068666,0,0,1.701692,33.940091,509.99569)"
+       x1="-42.038712"
+       y1="-256.37418"
+       x2="154.14194"
+       y2="-256.37418" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4276"
+       id="linearGradient4282"
+       x1="1.6514364"
+       y1="0.54499811"
+       x2="300"
+       y2="299.45502"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.01104854,-0.01657282)" />
+  </defs>
+  <g
+     id="g20601"
+     inkscape:export-filename="/Users/andrew/development/mothership_app_store/img/Mothership_Logo.png"
+     inkscape:export-xdpi="360"
+     inkscape:export-ydpi="360">
+    <rect
+       y="-0.016572814"
+       x="0.011048543"
+       height="300"
+       width="300"
+       id="rect6392"
+       style="opacity:1;fill:url(#linearGradient4282);fill-opacity:1.0;stroke:none;stroke-opacity:1" />
+    <path
+       id="path4290"
+       d="M 109.27539 40.492188 L 177.31055 108.5332 L 8.2539062 78.863281 L 122.24023 192.8418 L 8.3066406 232.24023 L 76.351562 299.98438 L 300 299.98438 L 300 137.49609 L 273.36133 112.54297 L 109.27539 40.492188 z "
+       style="opacity:0.236;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       clip-path="url(#clipPath6386)"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       transform="matrix(1.6823716,0,0,1.6382155,5.9618532,27.133837)"
+       id="Page-1">
+      <g
+         style="fill:#ffffff"
+         id="mothership-landing-light-824x268">
+        <g
+           id="Group">
+          <path
+             inkscape:connector-curvature="0"
+             id="Shape"
+             d="M 149.49777,47.563907 67.220463,0.65030343 C 64.949971,-0.68436251 62.044881,0.10141484 60.730086,2.4028951 59.41529,4.7043753 60.188587,7.6491144 62.45908,8.9818545 l 70.29975,39.8820525 c -2.78349,1.143999 -5.34278,2.729035 -7.59427,4.674219 L 5.9399771,23.541846 C 3.407286,22.873551 0.80999506,24.42392 0.15259736,26.998882 -0.50480034,29.571917 1.0227943,32.198879 3.5630854,32.865249 L 118.61908,61.767603 c -2.07859,3.950072 -3.26608,8.450959 -3.26608,13.23303 0,4.774368 1.18369,9.269477 3.25278,13.215697 L 3.5630854,117.11483 c -2.5402911,0.66637 -4.06788574,3.29333 -3.41048804,5.8683 0.55479806,2.17051 2.48139134,3.6111 4.59418394,3.6111 0.3951986,0 0.7941972,-0.0501 1.1912958,-0.15407 L 125.13416,96.453511 c 2.25149,1.950961 4.80508,3.541775 7.58857,4.691549 l -70.26365,39.87435 c -2.270493,1.33274 -3.04379,4.27941 -1.728994,6.57896 0.879697,1.54267 2.475691,2.40163 4.115385,2.40163 0.807497,0 1.626395,-0.208 2.376892,-0.64904 L 149.38948,102.48358 C 161.74703,99.604324 171,88.387737 171,75.000633 171,61.661678 161.80023,50.481684 149.49777,47.563907 Z M 125,74.990673 C 125,65.070059 133.28894,57 143.48082,57 153.69188,57 162,65.070059 162,74.990673 162,84.920614 153.69188,93 143.48082,93 133.28894,93 125,84.920614 125,74.990673 Z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
